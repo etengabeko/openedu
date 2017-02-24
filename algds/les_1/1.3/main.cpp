@@ -94,7 +94,7 @@ int main(int /*argc*/, char** /*argv*/)
         out = &std::cout;
     }
 
-    long array_size = 0;
+    size_t array_size = 0;
     ::read_size(*in, array_size);
    
     std::vector<long> array;
