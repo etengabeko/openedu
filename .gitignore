@@ -1,3 +1,5 @@
 .o/
 Makefile
 test*
+input.txt
+output.txt
